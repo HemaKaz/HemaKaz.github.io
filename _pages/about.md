@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Yujue Wang**, a Ph.D. student in the Department of Computer Science and Technology at **Tsinghua University**. My research focuses on **Large Language Model (LLM) Security** and **Agent Security**.
+I am **Yujue Wang**, a Ph.D. student in the School of Software at **Tsinghua University**, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu1989/home). I received my B.Eng. in Computer Science and Technology from **Southeast University** in 2024. My research focuses on **Large Language Model (LLM) Security** and **Agent Security**.
 
 My research interests include:
 - **LLM Security**: Prompt injection attacks and defenses, model alignment, jailbreak detection
