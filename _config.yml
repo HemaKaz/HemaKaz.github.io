@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "HemaKaz Homepage"
-description              : "A PHD student in Tsinghua University "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Yujue Wang - Homepage"
+description              : "Ph.D. student at Tsinghua University, researching Large Model and Agent Security"
+repository               : "HemaKaz/HemaKaz.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Yujue Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Ph.D. Student at Tsinghua University"
   location         : "Beijing, China"
-  employer         :
+  employer         : "Tsinghua University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  email            : "wangyujue@example.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
