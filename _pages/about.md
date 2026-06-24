@@ -54,8 +54,8 @@ I am dedicated to building safer, more reliable, and trustworthy AI systems, exp
 - *2022.10* National Scholarship
 
 # 📖 Educations
-- *2024.09 - Present*, Ph.D. in Computer Science and Technology, Tsinghua University
-- *2020.09 - 2024.06*, B.Eng. in Computer Science and Technology, Example University
+- *2024.09 - Present*, Ph.D. in the School of Software, Tsinghua University. Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu1989/home)
+- *2020.09 - 2024.06*, B.Eng. in Computer Science and Technology, Southeast University
 
 # 💬 Invited Talks
 - *2025.05*, Recent Advances in LLM Security, Example Academic Workshop
