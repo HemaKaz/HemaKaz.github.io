@@ -21,7 +21,8 @@ Hi, I am **Yujue Wang**, a Ph.D. student at **Tsinghua University**, advised by 
 
 My research interests include:
 - **LLM Security**: model attacks and defenses, model alignment, jailbreak detection
-- **Agent Security**: Multi-agent system security, 红队测试, risk management for autonomous agents
+- **Agent Security**: Multi-agent system security, red teaming for autonomous agents, and agent risk management
+
 
 
 I am dedicated to building safer, more reliable, and trustworthy AI systems, exploring the security challenges and solutions in the era of large language models.
@@ -42,6 +43,8 @@ InDe-LLM: Defending against Jailbreak Attacks in LLM-Powered Systems via Intenti
 **Yujue Wang**, Quan Zhang, Chijin Zhou, Gwihwan Go, Dalong Shi, Yu Jiang
 
 ACM International Conference on the Foundations of Software Engineering (FSE), 2026
+
+CCF-A
 </div>
 </div>
 
@@ -53,6 +56,8 @@ Evaluating Privilege Usage of Agents with Real-World Tools
 Quan Zhang, Lianhang Fu, Lvsi Lian, Gwihwan Go, **Yujue Wang**, Chijin Zhou, Yu Jiang, Geguang Pu
 
 ACM International Conference on the Foundations of Software Engineering (FSE-IVR), 2026
+
+CCF-A
 </div>
 </div>
 
@@ -64,6 +69,8 @@ Enhancing Protocol Fuzzing via Diverse Seed Corpus Generation
 Zhengxiong Luo, Qingpeng Du, **Yujue Wang**, Abhik Roychoudhury, Yu Jiang
 
 IEEE Transactions on Software Engineering (TSE), 2025
+
+CCF-A
 </div>
 </div>
 
@@ -80,4 +87,5 @@ IEEE Transactions on Software Engineering (TSE), 2025
 
 
 # 💻 Internships
+- *2025.04 - 2025.08*, Research Intern, Tencent
 - *2023.07 - 2023.09*, Research Intern, Huatai Securities
