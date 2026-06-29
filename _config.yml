@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yujue Wang - Homepage"
-description              : "Ph.D. student at Tsinghua University, researching Large Model and Agent Security"
+description              : "Large Language Model Security and Agent Security"
 repository               : "HemaKaz/HemaKaz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,8 +27,8 @@ author:
   location         : "Beijing, China"
   employer         : "Tsinghua University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "wangyujue@example.com"
+  googlescholar    : 
+  email            : 
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
