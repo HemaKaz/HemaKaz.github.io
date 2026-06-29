@@ -37,9 +37,18 @@ Beyond research, I enjoy traveling to explore different cultures, playing variou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='images/image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[InDe-LLM: Defending against Jailbreak Attacks in LLM-Powered Systems via Intention Disentangling](https://arxiv.org/pdf/2603.28166)
+InDe-LLM: Defending against Jailbreak Attacks in LLM-Powered Systems via Intention Disentangling
 
 **Yujue Wang**, Quan Zhang, Chijin Zhou, Gwihwan Go, Dalong Shi, Yu Jiang
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evaluating Privilege Usage of Agents with Real-World Tools](https://arxiv.org/pdf/2603.28166)
+
+Quan Zhang, Lianhang Fu, Lvsi Lian, Gwihwan Go, **Yujue Wang**, Chijin Zhou, Yu Jiang, Geguang Pu
 </div>
 </div>
 
