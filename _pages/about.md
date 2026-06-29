@@ -37,18 +37,15 @@ Beyond research, I enjoy traveling to explore different cultures, playing variou
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[IndelLM: Studying the Robustness of Large Language Models to Insertion and Deletion Perturbations](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_26/indellm_fse26.pdf)
+InDe-LLM: Defending against Jailbreak Attacks in LLM-Powered Systems via Intention Disentangling
 
-**Yujue Wang**, Author 2, Author 3
+**Yujue Wang**, Quan Zhang, Chijin Zhou, Gwihwan Go, Dalong Shi, Yu Jiang
 
-[**Paper**](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_26/indellm_fse26.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed IndelLM, studying LLM robustness to insertion and deletion perturbations
-- Analyzed vulnerability patterns across multiple LLMs
-- Code is open-sourced
+- Proposed InDe-LLM, a training-free jailbreak defense framework based on intention disentangling
+- Projects input embeddings into a benign-invariant subspace to isolate harmful intentions, then rejects them via activation steering
+- Outperforms baselines by 27.2%–43.5% across three models and ten attacks while preserving utility on benign inputs
 </div>
 </div>
-
-- [Example Paper: Secure Collaboration Mechanisms in Multi-Agent Systems](https://example.com), **Yujue Wang**, Author B, Author C, **NeurIPS 2023**
 
 # 🎖 Honors and Awards
 - *2024.09* Tsinghua University Ph.D. Freshman Scholarship
