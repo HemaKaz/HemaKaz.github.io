@@ -49,6 +49,19 @@ InDe-LLM: Defending against Jailbreak Attacks in LLM-Powered Systems via Intenti
 Evaluating Privilege Usage of Agents with Real-World Tools
 
 Quan Zhang, Lianhang Fu, Lvsi Lian, Gwihwan Go, **Yujue Wang**, Chijin Zhou, Yu Jiang, Geguang Pu
+
+FSE-IVR 2026
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Enhancing Protocol Fuzzing via Diverse Seed Corpus Generation
+
+Zhengxiong Luo, Qingpeng Du, **Yujue Wang**, Abhik Roychoudhury, Yu Jiang
+
+IEEE Transactions on Software Engineering (TSE), 2025
 </div>
 </div>
 
