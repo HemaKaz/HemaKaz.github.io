@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi，I am **Yujue Wang**, a Ph.D. student in the School of Software at **Tsinghua University**, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu1989/home). I received my B.Eng. in Computer Science and Technology from **Southeast University** in 2024. My research focuses on **Large Language Model (LLM) Security** and **Agent Security**.
+Hi，I am **Yujue Wang**, a Ph.D. student in the School of Software at **Tsinghua University**, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu1989/home). I received my B.Eng. in Computer Science and Technology from **Southeast University** in 2024. My research focuses on **Large Language Model (LLM) Security** and **Agent Security**. Beyond research, I enjoy traveling to explore different cultures, playing various sports, and dancing in my free time.
 
 My research interests include:
 - **LLM Security**: Prompt injection attacks and defenses, model alignment, jailbreak detection
@@ -26,7 +26,7 @@ My research interests include:
 
 I am dedicated to building safer, more reliable, and trustworthy AI systems, exploring the security challenges and solutions in the era of large language models.
 
-Beyond research, I enjoy traveling to explore different cultures, playing various sports, and dancing in my free time.
+
 
 # 🔥 News
 - *2026.06*: &nbsp;🎉 My personal homepage is now live!
@@ -34,7 +34,7 @@ Beyond research, I enjoy traveling to explore different cultures, playing variou
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='images/image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 InDe-LLM: Defending against Jailbreak Attacks in LLM-Powered Systems via Intention Disentangling
