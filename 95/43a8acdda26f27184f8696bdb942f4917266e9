@@ -1,0 +1,39 @@
+_pages/about.md
+  h_545873adffe0e3 24-25,90 gitai:{"mixed_line_ranges":[{"Single":90}],"operations":[]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "9543a8acdda26f27184f8696bdb942f4917266e9",
+  "prompts": {},
+  "humans": {
+    "h_545873adffe0e3": {
+      "author": "HemaKaz <wangyujue@example.com>"
+    }
+  },
+  "attestation_metadata": {
+    "_pages/about.md": [
+      {
+        "hash": "h_545873adffe0e3",
+        "line_ranges": [
+          {
+            "Range": [
+              24,
+              25
+            ]
+          },
+          {
+            "Single": 90
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 90
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
