@@ -34,16 +34,16 @@ Beyond research, I enjoy traveling to explore different cultures, playing variou
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Paper Title Example: Detecting Prompt Injection Attacks in Large Language Models](https://example.com)
+[IndelLM: Studying the Robustness of Large Language Models to Insertion and Deletion Perturbations](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_26/indellm_fse26.pdf)
 
 **Yujue Wang**, Author 2, Author 3
 
-[**Paper**](https://example.com) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Proposed a novel prompt injection attack detection framework
-- Achieved SOTA performance on multiple benchmark datasets
+[**Paper**](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_26/indellm_fse26.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Proposed IndelLM, studying LLM robustness to insertion and deletion perturbations
+- Analyzed vulnerability patterns across multiple LLMs
 - Code is open-sourced
 </div>
 </div>
