@@ -1,0 +1,39 @@
+_config.yml
+  h_545873adffe0e3 10,30-31 gitai:{"mixed_line_ranges":[{"Single":10}],"operations":[]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "eebecb77fa2b4d9882d06fcbb8039ff470ddaf79",
+  "prompts": {},
+  "humans": {
+    "h_545873adffe0e3": {
+      "author": "HemaKaz <wangyujue@example.com>"
+    }
+  },
+  "attestation_metadata": {
+    "_config.yml": [
+      {
+        "hash": "h_545873adffe0e3",
+        "line_ranges": [
+          {
+            "Single": 10
+          },
+          {
+            "Range": [
+              30,
+              31
+            ]
+          }
+        ],
+        "mixed_line_ranges": [
+          {
+            "Single": 10
+          }
+        ],
+        "operations": []
+      }
+    ]
+  },
+  "remote_transcripts": {}
+}
