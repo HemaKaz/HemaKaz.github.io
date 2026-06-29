@@ -1,0 +1,27 @@
+_pages/about.md
+  s_0a6c0f40e464f7::t_859310712eac0a 46
+  h_545873adffe0e3 49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "819654f69b0fa64c9d5bc84e2e3ef3cbfa018897",
+  "prompts": {},
+  "humans": {
+    "h_545873adffe0e3": {
+      "author": "HemaKaz <wangyujue@example.com>"
+    }
+  },
+  "sessions": {
+    "s_0a6c0f40e464f7": {
+      "agent_id": {
+        "tool": "trae-cue",
+        "id": "ai_tab-icr-5e20ef8d-ce8f-4b1d-b17c-a8cc26af3198",
+        "model": "default"
+      },
+      "human_author": "HemaKaz <wangyujue@example.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
