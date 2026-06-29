@@ -42,7 +42,7 @@ InDe-LLM: Defending against Jailbreak Attacks in LLM-Powered Systems via Intenti
 
 **Yujue Wang**, Quan Zhang, Chijin Zhou, Gwihwan Go, Dalong Shi, Yu Jiang
 
-ACM International Conference on the Foundations of Software Engineering (FSE), 2026
+International Conference on the Foundations of Software Engineering (FSE), 2026
 
 CCF-A
 </div>
@@ -55,7 +55,7 @@ Evaluating Privilege Usage of Agents with Real-World Tools
 
 Quan Zhang, Lianhang Fu, Lvsi Lian, Gwihwan Go, **Yujue Wang**, Chijin Zhou, Yu Jiang, Geguang Pu
 
-ACM International Conference on the Foundations of Software Engineering (FSE-IVR), 2026
+International Conference on the Foundations of Software Engineering (FSE-IVR), 2026
 
 CCF-A
 </div>
@@ -75,10 +75,11 @@ CCF-A
 </div>
 
 # 🎖 Honors and Awards
-- *2024.09* Tsinghua University Ph.D. Freshman Scholarship
-- *2024.06* Outstanding Graduate of Jiangsu Province
-- *2023.06* Merit Student of Jiangsu Province
-- *2021.10* National Scholarship
+- *2024* Outstanding Graduate of Jiangsu Province
+- *2023* Merit Student of Jiangsu Province
+- *2023* Gold Medal, CCPC Regional Contest (Women's Division)
+- *2021* First Prize, China Undergraduate Mathematics Competition
+- *2021* National Scholarship
 
 # 📖 Educations
 - *2024.09 - Present*, Ph.D. in the School of Software, Tsinghua University. Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964)
