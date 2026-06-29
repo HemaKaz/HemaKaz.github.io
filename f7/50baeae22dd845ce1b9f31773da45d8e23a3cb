@@ -1,0 +1,66 @@
+_pages/about.md
+  s_1ec212b06b503e::t_b74dfde63bab56 37 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a41eeb5b7b354c936338317","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Single":37}]}]}
+  h_545873adffe0e3 20,29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "f750baeae22dd845ce1b9f31773da45d8e23a3cb",
+  "prompts": {},
+  "humans": {
+    "h_545873adffe0e3": {
+      "author": "HemaKaz <wangyujue@example.com>"
+    }
+  },
+  "sessions": {
+    "s_1ec212b06b503e": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a3ba9f16ae7162dce6d7914",
+        "model": "openrouter-3o__dev"
+      },
+      "human_author": "HemaKaz <wangyujue@example.com>"
+    }
+  },
+  "attestation_metadata": {
+    "_pages/about.md": [
+      {
+        "hash": "s_1ec212b06b503e::t_b74dfde63bab56",
+        "line_ranges": [
+          {
+            "Single": 37
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a41eeb5b7b354c936338317",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Single": 37
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "s_1ec212b06b503e": {
+      "tool": "trae",
+      "conversation_id": "6a3ba9f16ae7162dce6d7914",
+      "session_id": "6a3ba9f16ae7162dce6d7914",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_1ec212b06b503e::t_b74dfde63bab56": {
+      "tool": "trae",
+      "conversation_id": "6a3ba9f16ae7162dce6d7914",
+      "session_id": "6a3ba9f16ae7162dce6d7914",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
