@@ -40,10 +40,6 @@ Beyond research, I enjoy traveling to explore different cultures, playing variou
 InDe-LLM: Defending against Jailbreak Attacks in LLM-Powered Systems via Intention Disentangling
 
 **Yujue Wang**, Quan Zhang, Chijin Zhou, Gwihwan Go, Dalong Shi, Yu Jiang
-
-- Proposed InDe-LLM, a training-free jailbreak defense framework based on intention disentangling
-- Projects input embeddings into a benign-invariant subspace to isolate harmful intentions, then rejects them via activation steering
-- Outperforms baselines by 27.2%–43.5% across three models and ten attacks while preserving utility on benign inputs
 </div>
 </div>
 
