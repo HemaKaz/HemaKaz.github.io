@@ -1,0 +1,72 @@
+_pages/about.md
+  s_1ec212b06b503e::t_d6c1622ef0db86 40,46-51 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a41f282b7b354c936338363","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Single":40},{"Range":[46,51]}]}]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "2dc3b99a9cbe151ee1ffc1a8b958c61309ffe28c",
+  "prompts": {},
+  "sessions": {
+    "s_1ec212b06b503e": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a3ba9f16ae7162dce6d7914",
+        "model": "openrouter-3o__dev"
+      },
+      "human_author": "HemaKaz <wangyujue@example.com>"
+    }
+  },
+  "attestation_metadata": {
+    "_pages/about.md": [
+      {
+        "hash": "s_1ec212b06b503e::t_d6c1622ef0db86",
+        "line_ranges": [
+          {
+            "Single": 40
+          },
+          {
+            "Range": [
+              46,
+              51
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a41f282b7b354c936338363",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Single": 40
+              },
+              {
+                "Range": [
+                  46,
+                  51
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "s_1ec212b06b503e": {
+      "tool": "trae",
+      "conversation_id": "6a3ba9f16ae7162dce6d7914",
+      "session_id": "6a3ba9f16ae7162dce6d7914",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_1ec212b06b503e::t_d6c1622ef0db86": {
+      "tool": "trae",
+      "conversation_id": "6a3ba9f16ae7162dce6d7914",
+      "session_id": "6a3ba9f16ae7162dce6d7914",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
