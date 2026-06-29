@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi，I am **Yujue Wang**, a Ph.D. student in the School of Software at **Tsinghua University**, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu1989/home). I received my B.Eng. in Computer Science and Technology from **Southeast University** in 2024. My research focuses on **Large Language Model (LLM) Security** and **Agent Security**. Beyond research, I enjoy traveling to explore different cultures, playing various sports, and dancing in my free time.
+Hi，I am **Yujue Wang**, a Ph.D. student at **Tsinghua University**, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964). I received my B.Eng. in Computer Science and Technology from **Southeast University** in 2024. My research focuses on **Large Language Model (LLM) Security** and **Agent Security**. Beyond research, I enjoy traveling to explore different cultures, playing various sports, and dancing in my free time.
 
 My research interests include:
 - **LLM Security**: Prompt injection attacks and defenses, model alignment, jailbreak detection
@@ -37,7 +37,7 @@ I am dedicated to building safer, more reliable, and trustworthy AI systems, exp
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='images/image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-InDe-LLM: Defending against Jailbreak Attacks in LLM-Powered Systems via Intention Disentangling
+[InDe-LLM: Defending against Jailbreak Attacks in LLM-Powered Systems via Intention Disentangling](https://arxiv.org/pdf/2603.28166)
 
 **Yujue Wang**, Quan Zhang, Chijin Zhou, Gwihwan Go, Dalong Shi, Yu Jiang
 </div>
@@ -49,7 +49,7 @@ InDe-LLM: Defending against Jailbreak Attacks in LLM-Powered Systems via Intenti
 - *2022.10* National Scholarship
 
 # 📖 Educations
-- *2024.09 - Present*, Ph.D. in the School of Software, Tsinghua University. Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu1989/home)
+- *2024.09 - Present*, Ph.D. in the School of Software, Tsinghua University. Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964)
 - *2020.09 - 2024.06*, B.Eng. in Computer Science and Technology, Southeast University
 
 # 💬 Invited Talks
