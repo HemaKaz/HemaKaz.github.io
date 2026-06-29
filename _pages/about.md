@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi，I am **Yujue Wang**, a Ph.D. student at **Tsinghua University**, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964). I received my B.Eng. in Computer Science and Technology from **Southeast University** in 2024. My research focuses on **Large Language Model (LLM) Security** and **Agent Security**. 
+Hi, I am **Yujue Wang**, a Ph.D. student at **Tsinghua University**, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964). I received my B.Eng. in Computer Science and Technology from **Southeast University** in 2024. My recent research focuses on **Large Language Model (LLM) Security** and **Agent Security**. 
 
 My research interests include:
-- **LLM Security**: Prompt injection attacks and defenses, model alignment, jailbreak detection
-- **Agent Security**: Multi-agent system security, tool-use safety, risk management for autonomous agents
-- **AI Safety & Governance**: LLM safety evaluation, trustworthy AI, AI ethics and policy
+- **LLM Security**: model attacks and defenses, model alignment, jailbreak detection
+- **Agent Security**: Multi-agent system security, 红队测试, risk management for autonomous agents
+
 
 I am dedicated to building safer, more reliable, and trustworthy AI systems, exploring the security challenges and solutions in the era of large language models.
 Beyond research, I enjoy traveling to explore different cultures, playing various sports, and dancing in my free time. Feel free to reach out to me if you share any of these interests!
@@ -40,6 +40,8 @@ Beyond research, I enjoy traveling to explore different cultures, playing variou
 InDe-LLM: Defending against Jailbreak Attacks in LLM-Powered Systems via Intention Disentangling
 
 **Yujue Wang**, Quan Zhang, Chijin Zhou, Gwihwan Go, Dalong Shi, Yu Jiang
+
+ACM International Conference on the Foundations of Software Engineering (FSE), 2026
 </div>
 </div>
 
@@ -50,11 +52,11 @@ Evaluating Privilege Usage of Agents with Real-World Tools
 
 Quan Zhang, Lianhang Fu, Lvsi Lian, Gwihwan Go, **Yujue Wang**, Chijin Zhou, Yu Jiang, Geguang Pu
 
-FSE-IVR 2026
+ACM International Conference on the Foundations of Software Engineering (FSE-IVR), 2026
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE 2025</div><img src='images/psg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Enhancing Protocol Fuzzing via Diverse Seed Corpus Generation
@@ -67,16 +69,15 @@ IEEE Transactions on Software Engineering (TSE), 2025
 
 # 🎖 Honors and Awards
 - *2024.09* Tsinghua University Ph.D. Freshman Scholarship
-- *2023.06* University Outstanding Graduate
-- *2022.10* National Scholarship
+- *2024.06* Outstanding Graduate of Jiangsu Province
+- *2023.06* Merit Student of Jiangsu Province
+- *2021.10* National Scholarship
 
 # 📖 Educations
 - *2024.09 - Present*, Ph.D. in the School of Software, Tsinghua University. Advisor: [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964)
 - *2020.09 - 2024.06*, B.Eng. in Computer Science and Technology, Southeast University
 
-# 💬 Invited Talks
-- *2025.05*, Recent Advances in LLM Security, Example Academic Workshop
-- *2024.12*, Agent Security: Opportunities and Challenges, Example Tech Forum
+
 
 # 💻 Internships
-- *2023.07 - 2023.12*, Research Intern, AI Security Lab, Tech Company, Beijing, China
+- *2023.07 - 2023.09*, Research Intern, Huatai Securities
