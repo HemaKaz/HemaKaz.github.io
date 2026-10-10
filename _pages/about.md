@@ -35,6 +35,21 @@ Beyond research, I enjoy traveling to explore different cultures, playing variou
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&amp;P 2027</div><img src='{{ "/images/seed.png" | relative_url }}' alt="Overview of SEED: exploration triggering, exploratory parallel decoding, and early decoding convergence" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SEED: Eliciting Internal Safety for Jailbreak Defense in Large Reasoning Models via Exploratory Decoding]({{ "/paper/final-version.pdf" | relative_url }})
+
+**Yujue Wang**, Quan Zhang, Gwihwan Go, Chijin Zhou, Yuanyuan Yuan, Heyuan Shi, Yu Jiang
+
+IEEE Symposium on Security and Privacy (S&P), 2027
+
+CCF-A
+
+[Paper]({{ "/paper/final-version.pdf" | relative_url }}) / [Code](https://github.com/IrisNexus/SEED)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE 2026</div><img src='images/image.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
