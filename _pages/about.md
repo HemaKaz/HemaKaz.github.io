@@ -100,7 +100,7 @@ CCF-A
 
 
 
-# 👩‍🏫 Teaching Experience
+# 👩‍🏫 SEVICES
 - Teaching Assistant, **Model-Driven Development**, for 60 undergraduate students.
 
 # 💻 Internships
