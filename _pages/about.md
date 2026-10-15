@@ -101,7 +101,7 @@ CCF-A
 
 
 # 👩‍🏫 Services
-- Teaching Assistant, **Model-Driven Development**, for 60 undergraduate students.
+- *2025-2026*, Teaching Assistant, Model-Driven Development, for 60 undergraduate students.
 
 # 💻 Internships
 - *2025.04 - 2025.08*, Research Intern, Tencent
