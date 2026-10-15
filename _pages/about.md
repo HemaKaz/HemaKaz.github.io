@@ -100,7 +100,7 @@ CCF-A
 
 
 
-# 👩‍🏫 SEVICES
+# 👩‍🏫 SERVICES
 - Teaching Assistant, **Model-Driven Development**, for 60 undergraduate students.
 
 # 💻 Internships
