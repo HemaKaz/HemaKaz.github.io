@@ -100,6 +100,9 @@ CCF-A
 
 
 
+# 👩‍🏫 Teaching Experience
+- Teaching Assistant, **Model-Driven Development**, for 60 undergraduate students.
+
 # 💻 Internships
 - *2025.04 - 2025.08*, Research Intern, Tencent
 - *2023.07 - 2023.09*, Research Intern, Huatai Securities
