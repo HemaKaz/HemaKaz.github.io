@@ -20,8 +20,8 @@ redirect_from:
 Hi there👋! I am **Yujue Wang**, a Ph.D. student at **Tsinghua University**, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964). I received my B.Eng. in Computer Science and Technology from **Southeast University** in 2024. My recent research focuses on **Large Language Model (LLM) Security** and **Agent Security**. 
 
 My research interests include:
-- **LLM Security**
-- **Agent Security**
+- **LLM Security**: alignment and jailbreak defense
+- **Agent Security**: red teaming and risk management
 
 
 
