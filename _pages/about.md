@@ -21,7 +21,7 @@ Hi there👋! I am **Yujue Wang**, a Ph.D. student at **Tsinghua University**, a
 
 My research interests include:
 - **LLM Security**: alignment and jailbreak defense
-- **Agent Security**: red teaming and risk management
+- **Agent Security**: attacks and defenses
 
 
 
